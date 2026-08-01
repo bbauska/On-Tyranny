@@ -183,7 +183,7 @@ article {
 }
 
 .intro {
-  background-image: url(../images/OnTyranny.jpg);
+  background-image: url(.../images/OnTyranny.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
