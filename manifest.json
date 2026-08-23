@@ -1,6 +1,9 @@
 {
- "name": "On Tyranny",
- "icons": [
+  "name": "On Tyranny",
+  "short_name": "On Tyranny", 
+  "start_url": "index.html",
+  "display": "standalone",  
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
